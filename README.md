@@ -37,8 +37,7 @@ The system brings together sensors, edge processing, MQTT communication, dashboa
 - [⚠️ Limitations](#️-limitations)
 - [🚀 Future Enhancements](#-future-enhancements)
 - [👥 Team](#-team)
-- [🙏 Acknowledgments](#-acknowledgments)
-- [📁 Repository & Setup Notes](#-repository--setup-notes)
+
 
 ## 🎯 Problem Statement
 
